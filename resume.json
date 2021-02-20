@@ -1,0 +1,166 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "projects": "",
+    "education": "Education",
+    "work": "Work & Leadership Experience",
+    "skills": "Skills & Interests"
+  },
+  "basics": {
+    "name": "Pranav Chachara",
+    "email": "pranavc10@hotmail.com",
+    "location": {
+      "address": "UAE, Dubai"
+    },
+    "phone": "(+971) 50 805 2720",
+    "website": "https://www.linkedin.com/in/pranav-chachara/"
+  },
+  "education": [
+    {
+      "institution": "Heriot Watt University",
+      "location": "UAE, Dubai",
+      "area": "Computer Science",
+      "studyType": "Bsc",
+      "endDate": "Jun 2022",
+      "gpa": "",
+      "startDate": "Sep 2019"
+    },
+    {
+      "institution": "The Indian High School",
+      "location": "UAE, Dubai",
+      "studyType": "Highschool",
+      "gpa": "92%",
+      "area": "Commerce, Informatic Practices & Multimedia and Web Applications",
+      "startDate": "Apr 2005",
+      "endDate": "Apr 2019"
+    },
+    {}
+  ],
+  "work": [
+    {
+      "company": "Team ESTEEM",
+      "location": "UAE, Dubai",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "Jan 2021",
+      "endDate": "Present",
+      "highlights": [
+        "Designing & developing the frontend for Team ESTEEM"
+      ]
+    },
+    {
+      "highlights": [
+        "Leading cybersecurity based projects",
+        "Hosting workshops & CTFs",
+        ""
+      ],
+      "company": "HW Tech Club",
+      "position": "Ethical Hacking Director",
+      "location": "UAE, Dubai",
+      "startDate": "June 2020",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Python",
+        "Bash",
+        "Java",
+        "C",
+        "React",
+        "Flutter",
+        "Hugo",
+        "PHP",
+        "NodeJS",
+        "MySQL",
+        "Networking",
+        "Pen-Testing"
+      ],
+      "name": "IT"
+    },
+    {
+      "keywords": [
+        "Reading",
+        "Origami",
+        "Piano",
+        "Online Gaming",
+        null
+      ],
+      "name": "Hobbies"
+    },
+    {
+      "keywords": [
+        "English (Proficient)",
+        "Hindi (Proficient)",
+        "Sindhi (Proficient)"
+      ],
+      "name": "Languages"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Virus Scanner",
+      "description": "A Python based virus scanner built using APIs",
+      "url": "https://github.com/HWTechClub/Virus-Scanner",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "keywords": [
+        "Bash"
+      ],
+      "name": "Easy-ADB",
+      "description": "A bash program made to help beginners use ADB over their local network",
+      "url": "https://github.com/PC-02/Easy-ADB"
+    },
+    {
+      "keywords": [
+        "Python",
+        "Bash"
+      ],
+      "name": "Password Cracker",
+      "description": "a program made in Python and Bash to crack passwords over an HTTP webpage & zip file passwords",
+      "url": "https://github.com/HWTechClub/Password-Cracking"
+    },
+    {
+      "keywords": [
+        "Python"
+      ],
+      "name": "Computer Vision",
+      "description": "Program that performs basic facial and motion detection",
+      "url": "https://github.com/PC-02/Computer-Vision"
+    }
+  ],
+  "awards": [
+    {
+      "awarder": "The Indian High School",
+      "summary": "Received an award of appreciation from the Indian High School for securing the highest marks for Informatics Practices in the school (99/100)",
+      "title": "Appreciation Award",
+      "date": "May 2019"
+    },
+    {
+      "title": "Certificate Of Achievement",
+      "date": "July 2019",
+      "awarder": "Heriot Watt University",
+      "summary": "Awarded by the Heriot Watt University Dubai for outstanding effort in CBSE Grade 12 Exam."
+    },
+    {}
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
