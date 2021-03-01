@@ -12,8 +12,8 @@ A few things I've worked with.
 
 * 🗣 Python | Bash | C 
 * ☁ Firebase | Azure
-* 🖇️ Flutter
-* 🛢️ MySQL 
+* 🐦 Flutter
+* 🗃️  MySQL 
 * 🌐 React
 
 
