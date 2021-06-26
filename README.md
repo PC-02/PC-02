@@ -1,21 +1,20 @@
+k# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hey, I'm Pranav C 👨💻
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Pranav C 👨‍💻
 
 A university student & cybersecurity enthusiast always looking to learn something new and work on cool things!
 
 #### 🔭 I’m currently looking for new opportunities.
 
-
 ## ⚡ Tech Stack
 
-A few things I've worked with.
+Stuff I like working with,
 
 * 🗣 Python | Bash | C 
-* ☁ Firebase | Azure
+* ☁ Firebase | AWS
 * 🐦 Flutter
-* 🗃️  MySQL 
-* 🌐 React
 
+
+<img align='right' src="https://pranavc.netlify.app/images/PC-Logo-Glitch.gif" width="230">
 
 ## 🏢 Organisation Heap
 
@@ -25,13 +24,11 @@ A few things I've worked with.
 ## 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/pranav-chachara/)
 - [Twitter](https://twitter.com/PC__02)
-- [CV](https://github.com/PC-02/PC-02/blob/main/Pranav_Chachara_CV.pdf)
-
- or send some ♥ on [here](mailto:pranavc10@hotmail.com).
-
+- [Mail](pranavc10@hotmail.com)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PC-02/PC-02)
 
 
  
+
