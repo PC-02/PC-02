@@ -1,4 +1,4 @@
-k# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hey, I'm Pranav C 👨💻
+ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hey, I'm Pranav C 👨💻
 
 
 A university student & cybersecurity enthusiast always looking to learn something new and work on cool things!
